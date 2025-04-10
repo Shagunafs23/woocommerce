@@ -16,9 +16,6 @@ A modern and responsive **WooCommerce landing page** designed for an engaging us
 ✅ Fully responsive across all devices  
 ✅ Easy customization and scalability  
 
-## 📷 Preview  
-![WooCommerce Landing Page](Screenshot 2025-04-10 112311.png)
-
 ## 📂 Installation  
 1. Clone the repository:  
    ```sh
