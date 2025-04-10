@@ -17,7 +17,7 @@ A modern and responsive **WooCommerce landing page** designed for an engaging us
 ✅ Easy customization and scalability  
 
 ## 📷 Preview  
-![WooCommerce Landing Page](https://woocommerce-xi.vercel.app/screenshot.png) *(Replace with an actual screenshot if available)*  
+![WooCommerce Landing Page](Screenshot 2025-04-10 112311.png)
 
 ## 📂 Installation  
 1. Clone the repository:  
